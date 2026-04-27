@@ -1,3 +1,4 @@
+<img src="banner.png" width="100%">
 <h1 align="center">Hi 👋, I'm Umesh Pal</h1>
 <h3 align="center">A passionate Frontend Developer & Aspiring Full Stack Developer from India 🇮🇳</h3>
 
