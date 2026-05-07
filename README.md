@@ -40,3 +40,17 @@
   <img src="https://streak-stats.demolab.com?user=Umeshpal97&theme=tokyonight&cache_seconds=30" />
 </p>
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umeshpal97&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Umeshpal97&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Umeshpal97&theme=tokyonight" />
+</p>
+
