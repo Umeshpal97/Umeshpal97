@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **umeshpalshispn@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio:-https://umeshpal97.github.io/Umesh-Portfolio-/
+- 📄 Know about my experiences [My Portfolio:-https://umeshpal97.github.io/Umesh-Pal-Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
