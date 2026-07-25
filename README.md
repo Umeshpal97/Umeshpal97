@@ -39,6 +39,30 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</a>
+
+<a href="https://hoppscotch.io/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/102500422?s=200&v=4" alt="Hoppscotch" width="40" height="40"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
+</a>
+
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
+</a>
+
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome DevTools" width="40" height="40"/>
+</a>
 </p>
 
 
