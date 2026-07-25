@@ -32,6 +32,17 @@
 
 
 <h3 align="left">Tools:</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+</p>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umeshpal97&show_icons=true&theme=tokyonight" />
