@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **umeshpalshispn@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio:- umesh-pal-portfolio.vercel.app ]
+- 📄 Know about my experiences [My Portfolio]:-(umesh-pal-portfolio.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
