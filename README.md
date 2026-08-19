@@ -77,6 +77,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Umeshpal97&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="https://github.pumbas.net/api/contributions/Umeshpal97?bgColour=161B22"
+    alt="Umeshpal97 GitHub Contributions"
+  />
 </p>
 
