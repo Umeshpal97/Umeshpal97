@@ -68,17 +68,15 @@
 <br>
 
 
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umeshpal97&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://gitpeak.vercel.app/api/readme?username=Umeshpal97&theme=Tokyo+Night" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umeshpal97&layout=compact&theme=tokyonight" />
-</p> -->
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Umeshpal97" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Umeshpal97&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Umeshpal97&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
