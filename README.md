@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umeshpal97&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
+  <img src="https://vani-stats.vercel.app/api?username=Umeshpal97&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
